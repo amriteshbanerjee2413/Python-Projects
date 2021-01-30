@@ -20,3 +20,5 @@ elif op == '/':
 else:
     print('I do not recognize this operation')
 
+
+#I have some bug as even if I input something other than an operation, it still runs giving an output instead of the 'I do not recognize this operation'
